@@ -14,6 +14,7 @@ Current assets include:
 
 - AI-assisted precheck prototype for building permits
 - [Visual inspection datasets for infrastructure monitoring and computer vision research](https://huggingface.co/datasets/ibm-research/cif-dataset)
+- Real-time smart parking data and API integration from the City of Frauenfeld via the [MODI Sandbox platform](https://modi.trustrelay.io/login) *(registration required)*
 
 The goal is to **enable reuse, transparency, and collaborative learning for startups, researchers, public institutions, and the broader AI ecosystem**.
 
