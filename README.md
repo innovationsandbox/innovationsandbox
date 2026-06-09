@@ -43,4 +43,4 @@ This section summarizes all **project results from the first batch** of sandbox 
 **Lukas Willi**  
 Project Lead AI  
 Office for Economy, Canton of Zurich  
-📧 lukas.willi@vd.zh.ch
+lukas.willi@vd.zh.ch
