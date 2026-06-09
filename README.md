@@ -1,6 +1,6 @@
 [<img src="_imgs/Innovation-Sandbox.webp" width="800"/>](_imgs/Innovation-Sandbox.webp)
 
-**[Innovation Sandbox for AI](https://www.innovationsandbox.ai)** – a real-world testing environment for responsible AI innovation in Switzerland.
+**[Innovation Sandbox for AI](https://www.zh.ch/de/wirtschaft-arbeit/wirtschaftsstandort/innovation-sandbox.html)** – a real-world testing environment for responsible AI innovation in Switzerland.
 
 The [Innovation Sandbox for AI](https://www.zh.ch/en/wirtschaft-arbeit/wirtschaftsstandort/innovation-sandbox.html) was launched in 2022 by the [Office for Economy of the Canton of Zurich](https://www.zh.ch/en/volkswirtschaftsdirektion/amt-fuer-wirtschaft.html), with support from the [Metropolitan Area Zurich initiative](https://www.metropolitanraum-zuerich.ch/). The programme was created **to strengthen the AI ecosystem by enabling practical real-world testing, early regulatory learning, and knowledge transfer between startups, academia, industry, and public authorities**.
 
@@ -40,4 +40,7 @@ This section summarizes all **project results from the first batch** of sandbox 
 
 # Contact
 
-https://www.innovationsandbox.ai/contact
+Lukas Willi
+Project Lead AI
+Office for Economy
+lukas.willi@vd.zh.ch
