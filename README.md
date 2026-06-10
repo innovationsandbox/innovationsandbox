@@ -4,7 +4,7 @@
 
 The [Innovation Sandbox for AI](https://www.zh.ch/en/wirtschaft-arbeit/wirtschaftsstandort/innovation-sandbox.html) was launched in 2022 by the [Office for Economy of the Canton of Zurich](https://www.zh.ch/en/volkswirtschaftsdirektion/amt-fuer-wirtschaft.html), with support from the [Metropolitan Area Zurich initiative](https://www.metropolitanraum-zuerich.ch/). The programme was created **to strengthen the AI ecosystem by enabling practical real-world testing, early regulatory learning, and knowledge transfer between startups, academia, industry, and public authorities**.
 
-Learn more about our work in [our programme report](https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/wirtschaft-arbeit/wirtschaftsstandort/dokumente/sandbox_en.pdf).
+Learn more about our work in our programme reports for [Phase I](https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/wirtschaft-arbeit/wirtschaftsstandort/dokumente/sandbox_en.pdf) and [Phase II](https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/wirtschaft-arbeit/wirtschaftsstandort/dokumente/finalreport_phase_II.pdf).
 
 # Open Source Assets
 
