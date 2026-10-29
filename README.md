@@ -38,7 +38,7 @@ This section summarizes all **project results from the first batch** of sandbox 
 - [Infrastructure Maintenance](https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/wirtschaft-arbeit/wirtschaftsstandort/dokumente/infrastructure_maintenance_en.pdf)
 - [AI in Education](https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/wirtschaft-arbeit/wirtschaftsstandort/dokumente/ai_education_en.pdf)
 
-# Sandbox Knowledge Hub (Feasability Study)
+# Sandbox Knowledge Hub (Feasibility Study)
 
 We explored how the reports from Phase 1 and 2 of the Innovation Sandbox for AI could be restructured for use by AI systems, not only human readers.
 The resulting feasibility study includes an LLM-readable wiki, the underlying knowledge structure, and documentation of the main learnings around validation, traceability, maintenance and audience-specific guidance.
